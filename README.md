@@ -1,4 +1,4 @@
 Repository per L'esercizio restaurant, membri:
-Simone
-Daniel
-Valentina
+Simone,
+Daniel,
+Valentina.
