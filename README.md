@@ -1,4 +1,4 @@
 Repository per L'esercizio Restaurant, membri:
-Simone,
-Daniel,
-Valentina.
+Simone: secondi - dolci,
+Daniel: antipasti - primi,
+Valentina: bibite - amari.
